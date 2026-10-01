@@ -2,8 +2,7 @@
 
 A web app for students to pick courses from a semester timetable, see which ones clash, and generate every clash-free combination of a chosen size. Built with Python and Streamlit.
 
-**Live app:** (add your Streamlit link here)
-
+**Live app:** https://course-clash-checker.streamlit.app/
 ## Features
 
 - Pick any courses from the list and see every clashing pair
