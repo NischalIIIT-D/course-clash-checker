@@ -1,0 +1,1622 @@
+[
+  {
+    "name": "MLBA",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      },
+      {
+        "day": "Wed",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      }
+    ],
+    "group": "MLBA"
+  },
+  {
+    "name": "CN-A",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      },
+      {
+        "day": "Tue",
+        "start": 750,
+        "end": 810,
+        "kind": "tutorial"
+      },
+      {
+        "day": "Wed",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      }
+    ],
+    "group": "CN"
+  },
+  {
+    "name": "CN-B",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      },
+      {
+        "day": "Tue",
+        "start": 750,
+        "end": 810,
+        "kind": "tutorial"
+      },
+      {
+        "day": "Wed",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      }
+    ],
+    "group": "CN"
+  },
+  {
+    "name": "RL",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      },
+      {
+        "day": "Wed",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      }
+    ],
+    "group": "RL"
+  },
+  {
+    "name": "ADL",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      },
+      {
+        "day": "Wed",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      }
+    ],
+    "group": "ADL"
+  },
+  {
+    "name": "RA",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      },
+      {
+        "day": "Wed",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      }
+    ],
+    "group": "RA"
+  },
+  {
+    "name": "FSSCS",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      }
+    ],
+    "group": "FSSCS"
+  },
+  {
+    "name": "NDM",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      },
+      {
+        "day": "Wed",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      }
+    ],
+    "group": "NDM"
+  },
+  {
+    "name": "TE",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      },
+      {
+        "day": "Wed",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      }
+    ],
+    "group": "TE"
+  },
+  {
+    "name": "IIA",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      },
+      {
+        "day": "Wed",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      }
+    ],
+    "group": "IIA"
+  },
+  {
+    "name": "IFCF",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      },
+      {
+        "day": "Wed",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      }
+    ],
+    "group": "IFCF"
+  },
+  {
+    "name": "CADD",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      }
+    ],
+    "group": "CADD"
+  },
+  {
+    "name": "US",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      }
+    ],
+    "group": "US"
+  },
+  {
+    "name": "TFM",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      }
+    ],
+    "group": "TFM"
+  },
+  {
+    "name": "ERI",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      }
+    ],
+    "group": "ERI"
+  },
+  {
+    "name": "BML",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      }
+    ],
+    "group": "BML"
+  },
+  {
+    "name": "NCL",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      }
+    ],
+    "group": "NCL"
+  },
+  {
+    "name": "MPL",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      }
+    ],
+    "group": "MPL"
+  },
+  {
+    "name": "MA",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      }
+    ],
+    "group": "MA"
+  },
+  {
+    "name": "PCB",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      }
+    ],
+    "group": "PCB"
+  },
+  {
+    "name": "QCN",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      }
+    ],
+    "group": "QCN"
+  },
+  {
+    "name": "DVD",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      },
+      {
+        "day": "Tue",
+        "start": 840,
+        "end": 900,
+        "kind": "tutorial"
+      },
+      {
+        "day": "Thu",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      }
+    ],
+    "group": "DVD"
+  },
+  {
+    "name": "CoMeG",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      }
+    ],
+    "group": "CoMeG"
+  },
+  {
+    "name": "AI",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      }
+    ],
+    "group": "AI"
+  },
+  {
+    "name": "ARP",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      }
+    ],
+    "group": "ARP"
+  },
+  {
+    "name": "MDG",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      }
+    ],
+    "group": "MDG"
+  },
+  {
+    "name": "LST",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      }
+    ],
+    "group": "LST"
+  },
+  {
+    "name": "QM",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 750,
+        "end": 840,
+        "kind": "tutorial"
+      },
+      {
+        "day": "Tue",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      }
+    ],
+    "group": "QM"
+  },
+  {
+    "name": "MPT",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      }
+    ],
+    "group": "MPT"
+  },
+  {
+    "name": "AERM",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      }
+    ],
+    "group": "AERM"
+  },
+  {
+    "name": "FF",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      }
+    ],
+    "group": "FF"
+  },
+  {
+    "name": "CGAS",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      },
+      {
+        "day": "Fri",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      }
+    ],
+    "group": "CGAS"
+  },
+  {
+    "name": "AMA",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      },
+      {
+        "day": "Fri",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      }
+    ],
+    "group": "AMA"
+  },
+  {
+    "name": "MAD",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      },
+      {
+        "day": "Fri",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      }
+    ],
+    "group": "MAD"
+  },
+  {
+    "name": "CMOS",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      },
+      {
+        "day": "Fri",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      }
+    ],
+    "group": "CMOS"
+  },
+  {
+    "name": "ADC",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      },
+      {
+        "day": "Fri",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      }
+    ],
+    "group": "ADC"
+  },
+  {
+    "name": "SC",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      },
+      {
+        "day": "Fri",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      }
+    ],
+    "group": "SC"
+  },
+  {
+    "name": "GAI",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      },
+      {
+        "day": "Fri",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      }
+    ],
+    "group": "GAI"
+  },
+  {
+    "name": "FOE",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      },
+      {
+        "day": "Fri",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      }
+    ],
+    "group": "FOE"
+  },
+  {
+    "name": "CMM",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      },
+      {
+        "day": "Fri",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      }
+    ],
+    "group": "CMM"
+  },
+  {
+    "name": "IDUDA",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      },
+      {
+        "day": "Fri",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      }
+    ],
+    "group": "IDUDA"
+  },
+  {
+    "name": "ABIN",
+    "meetings": [
+      {
+        "day": "Wed",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      },
+      {
+        "day": "Fri",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      }
+    ],
+    "group": "ABIN"
+  },
+  {
+    "name": "CHI",
+    "meetings": [
+      {
+        "day": "Wed",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      },
+      {
+        "day": "Fri",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      }
+    ],
+    "group": "CHI"
+  },
+  {
+    "name": "BDA",
+    "meetings": [
+      {
+        "day": "Wed",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      },
+      {
+        "day": "Fri",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      }
+    ],
+    "group": "BDA"
+  },
+  {
+    "name": "UsS",
+    "meetings": [
+      {
+        "day": "Wed",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      },
+      {
+        "day": "Fri",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      }
+    ],
+    "group": "UsS"
+  },
+  {
+    "name": "FAE",
+    "meetings": [
+      {
+        "day": "Wed",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      },
+      {
+        "day": "Wed",
+        "start": 810,
+        "end": 900,
+        "kind": "tutorial"
+      },
+      {
+        "day": "Fri",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      }
+    ],
+    "group": "FAE"
+  },
+  {
+    "name": "CA",
+    "meetings": [
+      {
+        "day": "Wed",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      },
+      {
+        "day": "Fri",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      }
+    ],
+    "group": "CA"
+  },
+  {
+    "name": "CSK",
+    "meetings": [
+      {
+        "day": "Wed",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      },
+      {
+        "day": "Fri",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      }
+    ],
+    "group": "CSK"
+  },
+  {
+    "name": "RA-II",
+    "meetings": [
+      {
+        "day": "Wed",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      },
+      {
+        "day": "Fri",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      }
+    ],
+    "group": "RA-II"
+  },
+  {
+    "name": "KPCC",
+    "meetings": [
+      {
+        "day": "Wed",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      },
+      {
+        "day": "Fri",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      }
+    ],
+    "group": "KPCC"
+  },
+  {
+    "name": "CI",
+    "meetings": [
+      {
+        "day": "Wed",
+        "start": 660,
+        "end": 750,
+        "kind": "lecture"
+      },
+      {
+        "day": "Fri",
+        "start": 570,
+        "end": 660,
+        "kind": "lecture"
+      }
+    ],
+    "group": "CI"
+  },
+  {
+    "name": "CBB",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      },
+      {
+        "day": "Wed",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      }
+    ],
+    "group": "CBB"
+  },
+  {
+    "name": "GA",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      },
+      {
+        "day": "Tue",
+        "start": 810,
+        "end": 900,
+        "kind": "tutorial"
+      },
+      {
+        "day": "Wed",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      }
+    ],
+    "group": "GA"
+  },
+  {
+    "name": "3DAF",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      },
+      {
+        "day": "Wed",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      }
+    ],
+    "group": "3DAF"
+  },
+  {
+    "name": "MF",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      },
+      {
+        "day": "Wed",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      }
+    ],
+    "group": "MF"
+  },
+  {
+    "name": "WSI",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      },
+      {
+        "day": "Wed",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      }
+    ],
+    "group": "WSI"
+  },
+  {
+    "name": "DSc",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      },
+      {
+        "day": "Wed",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      }
+    ],
+    "group": "DSc"
+  },
+  {
+    "name": "GMT",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      },
+      {
+        "day": "Wed",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      }
+    ],
+    "group": "GMT"
+  },
+  {
+    "name": "CCPT",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      },
+      {
+        "day": "Wed",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      }
+    ],
+    "group": "CCPT"
+  },
+  {
+    "name": "IB",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      },
+      {
+        "day": "Wed",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      }
+    ],
+    "group": "IB"
+  },
+  {
+    "name": "STE",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      },
+      {
+        "day": "Wed",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      }
+    ],
+    "group": "STE"
+  },
+  {
+    "name": "CM",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      }
+    ],
+    "group": "CM"
+  },
+  {
+    "name": "CG",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      },
+      {
+        "day": "Fri",
+        "start": 750,
+        "end": 840,
+        "kind": "lab"
+      }
+    ],
+    "group": "CG"
+  },
+  {
+    "name": "LDLS",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      }
+    ],
+    "group": "LDLS"
+  },
+  {
+    "name": "SPA",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 750,
+        "end": 810,
+        "kind": "tutorial"
+      },
+      {
+        "day": "Thu",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      }
+    ],
+    "group": "SPA"
+  },
+  {
+    "name": "INE",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      }
+    ],
+    "group": "INE"
+  },
+  {
+    "name": "BAI",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      }
+    ],
+    "group": "BAI"
+  },
+  {
+    "name": "ADDV",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      }
+    ],
+    "group": "ADDV"
+  },
+  {
+    "name": "DIP",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      }
+    ],
+    "group": "DIP"
+  },
+  {
+    "name": "PRP",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      }
+    ],
+    "group": "PRP"
+  },
+  {
+    "name": "TDL",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 900,
+        "end": 990,
+        "kind": "lecture"
+      }
+    ],
+    "group": "TDL"
+  },
+  {
+    "name": "FOMB",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 990,
+        "end": 1080,
+        "kind": "lecture"
+      },
+      {
+        "day": "Wed",
+        "start": 990,
+        "end": 1080,
+        "kind": "lecture"
+      }
+    ],
+    "group": "FOMB"
+  },
+  {
+    "name": "DTI",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 990,
+        "end": 1080,
+        "kind": "lecture"
+      },
+      {
+        "day": "Wed",
+        "start": 990,
+        "end": 1080,
+        "kind": "lecture"
+      }
+    ],
+    "group": "DTI"
+  },
+  {
+    "name": "SP",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 990,
+        "end": 1080,
+        "kind": "lecture"
+      },
+      {
+        "day": "Wed",
+        "start": 990,
+        "end": 1080,
+        "kind": "lecture"
+      }
+    ],
+    "group": "SP"
+  },
+  {
+    "name": "IRob",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 990,
+        "end": 1080,
+        "kind": "lecture"
+      },
+      {
+        "day": "Wed",
+        "start": 990,
+        "end": 1080,
+        "kind": "lecture"
+      }
+    ],
+    "group": "IRob"
+  },
+  {
+    "name": "VDF",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 990,
+        "end": 1080,
+        "kind": "lecture"
+      },
+      {
+        "day": "Wed",
+        "start": 990,
+        "end": 1080,
+        "kind": "lecture"
+      }
+    ],
+    "group": "VDF"
+  },
+  {
+    "name": "CmpA",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 990,
+        "end": 1080,
+        "kind": "lecture"
+      },
+      {
+        "day": "Wed",
+        "start": 990,
+        "end": 1080,
+        "kind": "lecture"
+      }
+    ],
+    "group": "CmpA"
+  },
+  {
+    "name": "BEco",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 990,
+        "end": 1080,
+        "kind": "lecture"
+      },
+      {
+        "day": "Wed",
+        "start": 990,
+        "end": 1080,
+        "kind": "lecture"
+      }
+    ],
+    "group": "BEco"
+  },
+  {
+    "name": "SoE",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 990,
+        "end": 1080,
+        "kind": "lecture"
+      },
+      {
+        "day": "Wed",
+        "start": 990,
+        "end": 1080,
+        "kind": "lecture"
+      }
+    ],
+    "group": "SoE"
+  },
+  {
+    "name": "IFT",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 990,
+        "end": 1080,
+        "kind": "lecture"
+      },
+      {
+        "day": "Wed",
+        "start": 990,
+        "end": 1080,
+        "kind": "lecture"
+      }
+    ],
+    "group": "IFT"
+  },
+  {
+    "name": "ML-A",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 990,
+        "end": 1080,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 990,
+        "end": 1080,
+        "kind": "lecture"
+      },
+      {
+        "day": "Fri",
+        "start": 870,
+        "end": 960,
+        "kind": "tutorial"
+      }
+    ],
+    "group": "ML"
+  },
+  {
+    "name": "ML-B",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 990,
+        "end": 1080,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 990,
+        "end": 1080,
+        "kind": "lecture"
+      },
+      {
+        "day": "Fri",
+        "start": 870,
+        "end": 960,
+        "kind": "tutorial"
+      }
+    ],
+    "group": "ML"
+  },
+  {
+    "name": "ISI",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 990,
+        "end": 1080,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 990,
+        "end": 1080,
+        "kind": "lecture"
+      }
+    ],
+    "group": "ISI"
+  },
+  {
+    "name": "DAVP",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 990,
+        "end": 1080,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 990,
+        "end": 1080,
+        "kind": "lecture"
+      }
+    ],
+    "group": "DAVP"
+  },
+  {
+    "name": "EML",
+    "meetings": [
+      {
+        "day": "Tue",
+        "start": 990,
+        "end": 1080,
+        "kind": "lecture"
+      },
+      {
+        "day": "Thu",
+        "start": 990,
+        "end": 1080,
+        "kind": "lecture"
+      }
+    ],
+    "group": "EML"
+  },
+  {
+    "name": "OOPD",
+    "meetings": [
+      {
+        "day": "Mon",
+        "start": 1080,
+        "end": 1170,
+        "kind": "lecture"
+      },
+      {
+        "day": "Wed",
+        "start": 1080,
+        "end": 1170,
+        "kind": "lecture"
+      }
+    ],
+    "group": "OOPD"
+  },
+  {
+    "name": "Tcom",
+    "meetings": [
+      {
+        "day": "Wed",
+        "start": 750,
+        "end": 840,
+        "kind": "lecture"
+      }
+    ],
+    "group": "Tcom"
+  },
+  {
+    "name": "EVS",
+    "meetings": [
+      {
+        "day": "Thu",
+        "start": 810,
+        "end": 900,
+        "kind": "lecture"
+      }
+    ],
+    "group": "EVS"
+  }
+]
